@@ -1,3 +1,16 @@
+Preview Link:
+https://priya-weatherapplication.netlify.app/
+
+Description:
+Build a weather Forecast application.
+
+Tech Used:
+  * React
+  * Redux toolkit
+  * axios
+  * useEffect Hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
